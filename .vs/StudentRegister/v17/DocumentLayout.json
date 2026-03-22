@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\migrations\\20260315090156_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\migrations\\20260315090156_mymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\studentregister.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\studentregister.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\models\\studentregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\models\\studentregisterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|c:\\users\\harish\\desktop\\frontend\\studentregister\\studentregister\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD0931B-6EF1-4851-B770-9C64C6B487DB}|StudentRegister\\StudentRegister.csproj|solutionrelative:studentregister\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 337,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:395622109:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2071510555:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Services\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Services\\ICourseService.cs",
+              "RelativeToolTip": "StudentRegister\\Services\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:15:20.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentRegister\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:14:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260315090156_mymigration.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Migrations\\20260315090156_mymigration.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Migrations\\20260315090156_mymigration.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Migrations\\20260315090156_mymigration.cs",
+              "RelativeToolTip": "StudentRegister\\Migrations\\20260315090156_mymigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:01:56.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRegister.http",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\StudentRegister.http",
+              "RelativeDocumentMoniker": "StudentRegister\\StudentRegister.http",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\StudentRegister.http",
+              "RelativeToolTip": "StudentRegister\\StudentRegister.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-15T08:52:17.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Program.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Program.cs",
+              "RelativeToolTip": "StudentRegister\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:47:18.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentRegister\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\appsettings.json",
+              "RelativeToolTip": "StudentRegister\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T08:38:57.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRegisterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\StudentRegisterDbContext.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Models\\StudentRegisterDbContext.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\StudentRegisterDbContext.cs",
+              "RelativeToolTip": "StudentRegister\\Models\\StudentRegisterDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:37:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\Topic.cs",
+              "RelativeToolTip": "StudentRegister\\Models\\Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:31:03.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\Course.cs",
+              "RelativeToolTip": "StudentRegister\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:30:17.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRegister\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Harish\\Desktop\\frontend\\StudentRegister\\StudentRegister\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRegister\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:27:44.329Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
